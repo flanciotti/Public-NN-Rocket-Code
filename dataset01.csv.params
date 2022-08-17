@@ -1,0 +1,10 @@
+{
+    "time column": "Time",
+    "time string format": "%Y-%m-%d %H:%M",
+    "target columns": "[\"Value1\",\"Value2\",\"Value3\"]",
+    "categorical columns": "['Category1','Category2','Category3']",
+    "label column": "Label",
+    "snapshot column": "Snapshot",
+    "train test split": "0.5",
+    "result type": "all"
+}
